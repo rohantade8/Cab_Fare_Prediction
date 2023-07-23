@@ -13,7 +13,8 @@ Using Machine Learning and API scrapping
 
 **Himanshu Ghode**
 
-Comparison of Price Fare between Ola and Uber
+Comparison of Price Fare between Ola and Uber.
+
 Problem statement:
 Ola and Uber are two prominent taxi services companies that offer cab services in urban areas. As a user, it's essential to understand the price fares charged by these companies to make informed decisions while booking rides. In this comparison, we will analyze and compare the price fares of Ola and Uber to determine any differences in their pricing strategies.
 

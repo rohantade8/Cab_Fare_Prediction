@@ -33,5 +33,3 @@ Use various data visualization techniques to present the findings clearly. Creat
 
 Conclusion:
 Based on the analysis and comparison of price fares between Ola and Uber, draw meaningful conclusions about the pricing strategies of both companies. Identify any substantial variations in fares and provide insights into potential reasons for these differences.
-
-Note:

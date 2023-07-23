@@ -3,7 +3,6 @@
 Data Science project on Cab Fare Prediction,
 Using Machine Learning and API scrapping
 
-Comparison of Price Fare between Ola and Uber
 **Team Members**:-
 
 **Rohan Anil Tade**
@@ -18,15 +17,6 @@ Comparison of Price Fare between Ola and Uber
 Problem statement:
 Ola and Uber are two prominent taxi services companies that offer cab services in urban areas. As a user, it's essential to understand the price fares charged by these companies to make informed decisions while booking rides. In this comparison, we will analyze and compare the price fares of Ola and Uber to determine any differences in their pricing strategies.
 
-**Team Members**:-
-
-**Rohan Anil Tade**
-
-**Tejas Darekar**
-
-**Shashank Kumar**
-
-**Himanshu Ghode**
 
 Data Collection:
 To compare the price fares, we need to collect data from both Ola and Uber platforms. This data should include ride details, such as distance traveled, time of the ride, and the corresponding fare charged for each ride.

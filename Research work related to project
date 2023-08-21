@@ -1,4 +1,4 @@
-#**Primary Research:**
+**#Primary Research:**
 Data Collection:
 Gather data related to cab rides, including factors that affect fare like distance, time, location, etc. You might need to collect data from various sources or APIs of different cab service providers like Uber and Ola.
 
@@ -20,7 +20,7 @@ Fine-tune the parameters of your selected models to achieve the best performance
 Model Deployment:
 Deploy the trained model to a suitable environment. This could be a cloud-based platform or a local server.
 
-#**Secondary Research:**
+**#Secondary Research:**
 API Availability:
 Investigate the availability of APIs for various cab service providers like Uber and Ola. Mention that while you found an API for Uber, there might be challenges in obtaining an API for Ola, which might influence your choice of cab service providers for the project.
 

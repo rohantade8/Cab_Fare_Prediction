@@ -4,9 +4,13 @@
 **Team Members:**
 
 **Rohan Anil Tade**
+
 **Tejas Darekar**
+
 **Shashank Kumar**
+
 **Himanshu Ghode**
+
 Comparison of Fare Prices between Uber and Lyft
 
 Problem Statement:

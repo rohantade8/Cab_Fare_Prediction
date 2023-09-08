@@ -1,47 +1,44 @@
-# Cab_Fare_Prediction
+**Data Science Project on Cab
+ Fare Comparison: Uber vs. Lyft, Utilizing Machine Learning and API Scraping**
 
-Data Science project on Cab Fare Prediction,
-Using Machine Learning and API scrapping
-
-**Team Members**:-
+**Team Members:**
 
 **Rohan Anil Tade**
-
 **Tejas Darekar**
-
 **Shashank Kumar**
-
 **Himanshu Ghode**
+Comparison of Fare Prices between Uber and Lyft
 
-Comparison of Price Fare between Ola and Uber.
-
-Problem statement:
-Ola and Uber are two prominent taxi services companies that offer cab services in urban areas. As a user, it's essential to understand the price fares charged by these companies to make informed decisions while booking rides. In this comparison, we will analyze and compare the price fares of Ola and Uber to determine any differences in their pricing strategies.
-
+Problem Statement:
+Uber and Lyft are two prominent ride-sharing companies that provide transportation services in urban areas. For riders, it is crucial to gain insights into the fare prices offered by these companies in order to make informed decisions when booking rides. In this comparative analysis, we will examine and contrast the fare prices of Uber and Lyft to identify any disparities in their pricing strategies.
 
 Data Collection:
-To compare the price fares, we need to collect data from both Ola and Uber platforms. This data should include ride details, such as distance traveled, time of the ride, and the corresponding fare charged for each ride.
+To compare fare prices, we must collect data from both Uber and Lyft platforms. This dataset should encompass ride details, such as distance traveled, ride duration, and the corresponding fare charged for each trip.
 
 Data Preprocessing:
-Once the data is collected, we need to preprocess it to ensure consistency and remove any outliers or anomalies that might affect the comparison. Data preprocessing steps may include data cleaning, handling missing values, and dealing with any discrepancies in fare amounts.
+Upon collecting the data, preprocessing is necessary to ensure uniformity and eliminate outliers or irregularities that could influence the comparison. Data preprocessing tasks might involve data cleansing, handling missing values, and addressing any inconsistencies in fare amounts.
 
 Comparison Metrics:
-To compare the price fares between Ola and Uber, we can use the following metrics:
+To assess fare prices between Uber and Lyft, the following metrics can be employed:
 
-Average Fare: Calculate the average fare for rides taken through both platforms.
-
-Fare Distribution: Visualize the fare distribution of rides for each platform to identify any significant differences.
-
-Fare Variation with Distance and Time: Analyze how the fare varies concerning the distance traveled and the time of the day for both Ola and Uber rides.
-
+Average Fare: Compute the average fare for rides taken on both platforms.
+Fare Distribution: Visualize the distribution of fares for trips on each platform to identify significant distinctions.
+Fare Variability with Distance and Time: Analyze how fares change concerning travel distance and time of day for both Uber and Lyft rides.
 Data Analysis:
-Perform a detailed analysis of the preprocessed data to draw insights into the fare pricing strategies of Ola and Uber. Look for patterns, trends, and variations in fares based on different factors, such as distance, time, and location.
+Conduct an in-depth examination of the preprocessed data to derive insights into the fare pricing strategies of Uber and Lyft. Seek out trends, patterns, and fluctuations in fares based on various factors such as distance, time, and location.
 
 Statistical Tests:
-Conduct statistical tests to determine if there is a statistically significant difference in the fare pricing between Ola and Uber. For instance, you could perform a hypothesis test to compare the means of the fare distributions.
+Carry out statistical tests to establish whether there is a statistically significant difference in fare pricing between Uber and Lyft. For instance, you may perform a hypothesis test to compare the means of fare distributions.
 
 Visualization:
-Use various data visualization techniques to present the findings clearly. Create plots, histograms, and other visual representations to showcase the comparison between Ola and Uber fares effectively.
+Leverage diverse data visualization techniques to effectively communicate the findings. Generate plots, histograms, and other visual representations to present the comparison of Uber and Lyft fares convincingly.
 
 Conclusion:
-Based on the analysis and comparison of price fares between Ola and Uber, draw meaningful conclusions about the pricing strategies of both companies. Identify any substantial variations in fares and provide insights into potential reasons for these differences.
+Based on the analysis and comparison of fare prices between Uber and Lyft, formulate meaningful conclusions about the pricing strategies of both companies. Identify substantial fare disparities and offer insights into potential factors contributing to these differences.
+
+*Note: Remember to adapt data collection methods, APIs, and specific metrics according to the availability and format of data from Uber and Lyft sources. Additionally, ensure compliance with API usage terms and conditions when scraping data from these platforms."
+
+
+
+
+
